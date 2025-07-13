@@ -1,6 +1,7 @@
 # 3D Viewer v2.0
 
-A robust C++/Qt-based 3D viewer for `.obj` files. It allows for loading, viewing, and transforming 3D models with an intuitive graphical user interface.
+A robust C++/Qt-based 3D viewer for `.obj` files. It allows for loading, viewing, and transforming 3D models with an intuitive graphical user interface.  
+Been used [QtGifImage](https://github.com/dbzhang800/QtGifImage) by [dbzhang800](https://github.com/dbzhang800) for generating GIFs. Thank you!
 
 ## Features
 
