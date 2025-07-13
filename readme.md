@@ -76,7 +76,8 @@ The `Makefile` provides several commands for development and maintenance:
 | `make gcov_report`| Generates a test coverage report using `lcov`.                               |
 | `make mem_check`  | Runs the tests with `valgrind` to check for memory leaks.                    |
 | `make cpp_check`  | Performs static analysis of the code using `cppcheck`.                       |
-| `make format`     | Formats the source code using `clang-format`.                                |
+| `make clang_format`     | Formats the source code using `clang-format`.                          |
+| `make clang_format_test`| Tests the source code using `clang-format`.                            |
 | `make install`    | Installs the application to the `./install` directory.                       |
 | `make uninstall`  | Removes the installed application.                                           |
 | `make dist`       | Creates a distributable archive of the source code in the `./dist` directory.|
